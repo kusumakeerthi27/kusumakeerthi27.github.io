@@ -147,7 +147,7 @@ class AboutPage extends StatelessWidget {
             ),
             const SizedBox(height: 16),
             const Text(
-              'I am a 3rd year B.Tech student passionate about working hard.My technical skills include java,python and excel.I have a optimistic and passionate personaility.',
+              'I am a 3rd year B.Tech student pursuing computer science.My interests include data science,machine learning and cloud computing.',
               style: TextStyle(fontSize: 16, height: 1.5),
             ),
             const SizedBox(height: 20),
@@ -157,11 +157,11 @@ class AboutPage extends StatelessWidget {
             ),
             const SizedBox(height: 10),
             const Text(
-              '• Flutter & Dart\n'
-              '• UI/UX Design\n'
-              '• Firebase & REST APIs\n'
-              '• Java / Python\n'
-              '• Git & Version Control',
+              '• python\n'
+              '• java\n'
+              '• git and github\n'
+              '• excelsheet\n'
+              '• cloud',
               style: TextStyle(fontSize: 15, height: 1.6),
             ),
             const Spacer(),
